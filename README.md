@@ -1,6 +1,7 @@
 ### <p align = "center"> 👋🏻 Hello, I’m @chapmanwong604 👋🏻 </p>
-- 🤓  I'm a new learner and I am currently learning JavaScript.
 
+
+- 🤓  I'm a new learner and I am currently learning JavaScript.
 - 💁🏻‍♂  Feel free to reach me through my email: chapmanwong604@gmail.com
 
 
